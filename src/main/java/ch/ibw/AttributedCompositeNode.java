@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
+// Test Text für Jenkins
 
 public class AttributedCompositeNode {
   public Map<String, Object> attributes;
